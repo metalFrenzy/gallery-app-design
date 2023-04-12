@@ -1,8 +1,10 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:gallery_app/widgets/dialog_buttons.dart';
-import 'package:gallery_app/widgets/gallery_grid.dart';
-import 'package:gallery_app/widgets/glass_box.dart';
+
+
+import '../widgets/dialog_buttons.dart';
+import '../widgets/gallery_grid.dart';
+import '../widgets/glass_box.dart';
 
 import '../widgets/icon.dart';
 
