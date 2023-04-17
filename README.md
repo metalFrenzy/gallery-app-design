@@ -1,4 +1,8 @@
-# Screenshots
+# Gallery App UI
+
+Ui design for a gallery app that allows users to sign in and upload photos from the phone gallery and present them. developed using flutter 
+
+## Screenshots
 
 
 ![Screenshot_1681286286](https://user-images.githubusercontent.com/70327788/231427402-410b77c1-da65-4320-bda7-9ae52938dc49.png)
